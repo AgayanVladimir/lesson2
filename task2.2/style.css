@@ -1,0 +1,27 @@
+body {
+	background-image: url(/img/back.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+
+
+}
+
+main {
+	color: white;
+	font-family: Tahoma;
+	max-width: 40%;
+	padding: 10px 0px 0px 30px;
+
+
+}
+
+h1 {}
+
+h2 {
+	background-image: linear-gradient(to top, brown, rgba(165, 42, 42, 0));
+	padding: 5px;
+}
+
+p {}
